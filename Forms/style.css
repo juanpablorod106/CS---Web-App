@@ -1,0 +1,74 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink; /* Añadido para poner el fondo en rosa */
+}
+
+form {
+    background-color: white;
+    width: 800px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+form li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
+
+label {
+    display: inline-block;
+    width: 150px; /* Se ha aumentado el ancho del label */
+    text-align: right;
+    margin-right: 10px; /* Añade margen entre el label y el input */
+}
+
+input,
+textarea,
+select {
+    font: 1em sans-serif;
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    padding: 0.5em; /* Añadido padding */
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    border-color: #000;
+}
+
+textarea {
+    vertical-align: top;
+    height: 5em;
+}
+
+.button {
+    padding-left: 160px; /* Ajustado para centrar el botón */
+}
+
+button {
+    margin-left: 0.5em;
+}
+
+.form-container {
+    display: flex; /* Arrange logo and form side-by-side */
+    align-items: center; /* Align logo and form vertically */
+  }
