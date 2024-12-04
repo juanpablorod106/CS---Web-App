@@ -4,6 +4,7 @@ First Prob
 # Project deployed on Github Pages:
 https://juanpablorod106.github.io/CS---Web-App/
 # QR of the Project:
-![CS](https://github.com/user-attachments/assets/8ee29e41-d57b-41ad-8e1a-fce18133028e)
+![CS](https://github.com/user-attachments/assets/5b1ee438-4854-4e95-beb6-0c06ea1b3e52)
+
 
 
